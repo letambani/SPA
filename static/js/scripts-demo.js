@@ -17,8 +17,8 @@ const csvCache = new Map();
 
 // Lista de arquivos CSV disponíveis
 const availableFiles = [
-  'uploads/teste2.csv'
-  // Nota: Arquivos com caracteres especiais podem ter problemas. Use upload para adicionar mais arquivos.
+  'uploads/teste2.csv',
+  'uploads/Cópia de Editado Perfil dos Acadêmicos da FMP (respostas) - 14.05.2024 - Respostas ao formulário 1.csv'
 ];
 
 // Inicializar lista de arquivos
